@@ -11,6 +11,7 @@ To get started, you're gonna have to check the following repositories:
 
 ### Credits
 
+- [VoidUI Tiramisu Project](https://github.com/VoidUI-Tiramisu)
 - [LineageOS](https://github.com/lineageos)
 - [OmniROM](https://github.com/omnirom)
 - [ParanoidAOSP](https://github.com/AOSPA)
