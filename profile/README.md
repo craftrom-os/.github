@@ -1,3 +1,5 @@
+![banner](https://raw.githubusercontent.com/craftrom-os/docs/master/img/CraftRom%20Presentation.png)
+
 Welcome to ***CraftRom OS***
 
 Functionally Minimalistic! ***CraftRom OS*** is a Custom OS based on AOSP with enhancements tweaks from and some  features to enhance your daily driving experience.
