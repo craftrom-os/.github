@@ -1,4 +1,5 @@
 ![banner](https://raw.githubusercontent.com/craftrom-os/docs/master/img/CraftRom%20Presentation.png)
+[![Download CraftRomOS](https://img.shields.io/sourceforge/dt/craftrom.svg)](https://sourceforge.net/projects/craftrom/files/latest/download) [![Download CraftRomOS](https://img.shields.io/sourceforge/dm/craftrom.svg)](https://sourceforge.net/projects/craftrom/files/latest/download)
 
 Welcome to ***CraftRom OS***
 
