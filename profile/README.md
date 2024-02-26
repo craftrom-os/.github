@@ -14,6 +14,7 @@ To get started, you're gonna have to check the following repositories:
 
 ### Credits
 
+- [AICP](https://github.com/AICP)
 - [VoidUI Tiramisu Project](https://github.com/VoidUI-Tiramisu)
 - [LineageOS](https://github.com/lineageos)
 - [OmniROM](https://github.com/omnirom)
