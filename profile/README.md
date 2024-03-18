@@ -1,12 +1,5 @@
 ![banner](https://raw.githubusercontent.com/craftrom-os/docs/master/img/CraftRom%20Presentation.png)
 [![Download CraftRomOS](https://img.shields.io/sourceforge/dt/craftrom.svg)](https://sourceforge.net/projects/craftrom/files/latest/download) [![Download CraftRomOS](https://img.shields.io/sourceforge/dm/craftrom.svg)](https://sourceforge.net/projects/craftrom/files/latest/download)
-<!-- Begin SF Tag -->
-<div class="sf-root" data-id="3701861" data-badge="oss-rising-star-white" data-metadata="achievement=oss-rising-star" style="width:125px">
-    <a href="https://sourceforge.net/projects/craftrom/" target="_blank">CraftRomOS</a>
-</div>
-<script>(function () {var sc=document.createElement('script');sc.async=true;sc.src='https://b.sf-syn.com/badge_js?sf_id=3701861';var p=document.getElementsByTagName('script')[0];p.parentNode.insertBefore(sc, p);})();
-</script>
-<!-- End SF Tag -->
 
 Welcome to ***CraftRom OS***
 
