@@ -10,7 +10,7 @@ Functionally Minimalistic! ***CraftRom OS*** is a Custom OS based on AOSP with e
 To get started, you're gonna have to check the following repositories:
 
 - [Manifest](https://github.com/craftrom-os/manifest.git)
-- [Vendor](https://github.com/craftrom-os/vendor_aosp.git)
+- [Vendor](https://github.com/craftrom-os/vendor_craftrom.git)
 
 ### Credits
 
